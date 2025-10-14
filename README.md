@@ -32,7 +32,7 @@ Each student should ensure their GitHub information is accurate to receive feedb
 
 ## 🏷️ Topics & Tagging Guide
 
-To keep all JCS Full Stack student repositories connected and easy to find, please **add the following topics** --> **jcs-fullstack-jcs-fullstack-2025-education** to every project you create for this course:
+To keep all JCS Full Stack student repositories connected and easy to find, please **add the following topics** --> **jcs, fullstack, jcs-fullstack, 2025, education** to every project you create for this course:
 
 ### 🔧 How to Add Topics on GitHub
 1. Go to your project repository on GitHub.  
