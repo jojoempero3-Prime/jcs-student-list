@@ -30,6 +30,21 @@ Each student should ensure their GitHub information is accurate to receive feedb
 
 ---
 
+## 🏷️ Topics & Tagging Guide
+
+To keep all JCS Full Stack student repositories connected and easy to find, please **add the following topics** to every project you create for this course:
+
+### 🔧 How to Add Topics on GitHub
+1. Go to your project repository on GitHub.  
+2. Click the small ⚙️ **Settings** icon (top bar of your repo).  
+3. In the **“Topics”** field, type or paste the topics above.  
+4. Press **Enter** or **comma** after each word.  
+5. Click **Save changes** (if needed).
+
+> 🧭 **Tip:** After tagging, click any topic (e.g. `jcs-fullstack`) to see all student repositories for this class.
+
+---
+
 ## 🧾 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
