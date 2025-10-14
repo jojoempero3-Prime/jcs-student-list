@@ -38,7 +38,7 @@ To keep all JCS Full Stack student repositories connected and easy to find, plea
 1. Go to your project repository on GitHub.  
 2. Click the small ⚙️ **Settings** icon (top bar of your repo).  
 3. In the **“Topics”** field, type or paste the topics above.  
-4. Press **Enter** or **comma** after each word.  
+4. Press **Enter** after each word.  
 5. Click **Save changes** (if needed).
 
 > 🧭 **Tip:** After tagging, click any topic (e.g. `jcs-fullstack`) to see all student repositories for this class.
