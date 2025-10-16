@@ -11,7 +11,7 @@
 | No. | Name                            | GitHub Username               | Email                                              |
 |-----|---------------------------------|-------------------------------|----------------------------------------------------|
 | 1   |collins alex                     |collins1222-max                |collinsalex12345678910@gmail.com                    |
-| 2   |Nwabueze princewill              |princewillnwabueze0714         |princewillnwabueze12@gmail.com                                                    |
+| 2   |Nwabueze princewill              |princewillnwabueze0714         |princewillnwabueze12@gmail.com                      |
 | 3   |                                 |                               |                                                    |
 | 4   |                                 |                               |                                                    |
 | 5   |                                 |                               |                                                    |
