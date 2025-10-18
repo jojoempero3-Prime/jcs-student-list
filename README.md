@@ -8,13 +8,22 @@
 
 ## 🧑‍💻 Student List
 
-| No. | Name                            | GitHub Username               | Email                                              |
-|-----|---------------------------------|-------------------------------|----------------------------------------------------|
-| 1   |collins alex                     |collins1222-max                |collinsalex12345678910@gmail.com                    |
-| 2   |Nwabueze princewill              |princewillnwabueze0714         |princewillnwabueze12@gmail.com                      |
-| 3   |                                 |                               |                                                    |
-| 4   |                                 |                               |                                                    |
-| 5   |                                 |                               |                                                    |
+| No. | Name                            | GitHub Username               | Email                                              | Cohort             |
+|-----|---------------------------------|-------------------------------|----------------------------------------------------|--------------------|
+| 1   |collins alex                     |collins1222-max                |collinsalex12345678910@gmail.com                    |2025 Cohort 2       |
+| 2   |Nwabueze princewill              |princewillnwabueze0714         |princewillnwabueze12@gmail.com                      |2025 Cohort 2       |
+| 3   |                                 |                               |                                                    |                    |
+| 4   |                                 |                               |                                                    |                    |
+| 5   |                                 |                               |                                                    |                    |
+| 6   |                                 |                               |                                                    |                    |
+| 7   |                                 |                               |                                                    |                    |
+| 8   |                                 |                               |                                                    |                    |
+| 9   |                                 |                               |                                                    |                    |
+| 10  |                                 |                               |                                                    |                    |
+| 11  |                                 |                               |                                                    |                    |
+| 12  |                                 |                               |                                                    |                    |
+| 13  |                                 |                               |                                                    |                    |
+| 14  |                                 |                               |                                                    |                    |
 
 > 📝 **Instructions for Students:**  
 > - Fork this repository.  
